@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @likailang1026
-- 👀 I’m interested in sport and fashion
+- 👀 I’m interested in AI, Roborts and CV
 - 🌱 I’m currently learning ai in ELTE
 - 💞️ I’m looking to collaborate on programming
 - 📫 Nice to see you!
