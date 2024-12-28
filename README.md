@@ -1,6 +1,3 @@
-<p align="center">
- <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
-  
 - 👋 Hi, I’m @likailang1026
 - 👀 I’m interested in AI, Roborts and CV
 - 🌱 I’m currently learning ai in ELTE
@@ -9,7 +6,7 @@
 
 ![Logo](assets/github-black.svg#gh-light-mode-only)
 
-![Logo](assets/github-white.svg#gh-dark-mode-only)
+![Logo](assets/github-white.svg#gh-dark-mode-only)      <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 <!---
