@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on programming
 - 📫 Nice to see you!
 
-# 仅在浅色页面背景下显示图片
 ![Logo](assets/github-black.svg#gh-light-mode-only)
 
-# 仅在深色页面背景下显示图片
 ![Logo](assets/github-white.svg#gh-dark-mode-only)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
