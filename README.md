@@ -1,3 +1,6 @@
+<p align="center">
+ <img width="100px" src="https://github.githubassets.com/images/mona-loading-default.gif" align="center" alt="Logo" />
+  
 - 👋 Hi, I’m @likailang1026
 - 👀 I’m interested in AI, Roborts and CV
 - 🌱 I’m currently learning ai in ELTE
