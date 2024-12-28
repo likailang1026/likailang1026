@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @likailang1026
-- 👀 I’m interested in AI, Roborts and CV
-- 🌱 I’m currently learning ai in ELTE
-- 💞️ I’m looking to collaborate on programming
-- 📫 Nice to see you!
-
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="css">
@@ -14,6 +8,13 @@
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="80" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="80" title="node">
 </div>
+
+- 👋 Hi, I’m @likailang1026
+- 👀 I’m interested in AI, Roborts and CV
+- 🌱 I’m currently learning ai in ELTE
+- 💞️ I’m looking to collaborate on programming
+- 📫 Nice to see you!
+
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)       
 <!---
